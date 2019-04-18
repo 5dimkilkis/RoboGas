@@ -8,4 +8,5 @@
 Στο όχημα υπάρχουν δύο αισθητήρες ανίχνευσης εμποδίων, οι οποίοι επιτρέπουν την αυτόνομη κίνηση στο χώρο.
 Επίσης υπάρχει και αισθητήρας ανίχνευσης αερίων (υγραέριο, μονοξείδιο του άνθρακα, κλπ) ο οποίος όταν ανιχνέυει κάποιο αέριο θα εμφανίζει οπτικά και ηχητικά σχετική προειδοποίηση.
 
-Video παρουσίασης project [![Robogas](http://img.youtube.com/vi/DBfr24ylaT8/0.jpg)](http://www.youtube.com/watch?v=DBfr24ylaT8 "Robogas")
+Video παρουσίασης project 
+[![Robogas](http://img.youtube.com/vi/DBfr24ylaT8/0.jpg)](http://www.youtube.com/watch?v=DBfr24ylaT8 "Robogas")
